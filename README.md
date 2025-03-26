@@ -108,10 +108,12 @@ Results will be saved in `results.xlsx`.
 
 ```
 @inproceedings{lan2024proxyclip,
-      title={ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation}, 
-      author={Mengcheng Lan and Chaofeng Chen and Yiping Ke and Xinjiang Wang and Litong Feng and Wayne Zhang},
-      booktitle={ECCV},
-      year={2024},
+  title={Proxyclip: Proxy attention improves clip for open-vocabulary segmentation},
+  author={Lan, Mengcheng and Chen, Chaofeng and Ke, Yiping and Wang, Xinjiang and Feng, Litong and Zhang, Wayne},
+  booktitle={European Conference on Computer Vision},
+  pages={70--88},
+  year={2024},
+  organization={Springer}
 }
 ```
 
